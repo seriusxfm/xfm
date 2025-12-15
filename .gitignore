@@ -86,7 +86,10 @@ dist
 
 # Gatsby files
 .cache/
-public
+# public
+
+# Important: Allow CNAME file for GitHub Pages domain configuration
+!public/CNAME
 
 # Storybook build outputs
 .out
