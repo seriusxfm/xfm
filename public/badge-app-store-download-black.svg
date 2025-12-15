@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 50" fill="none">
+  <rect width="150" height="50" rx="8" fill="#000"/>
+  <text x="50" y="18" fill="#fff" font-size="8" font-family="system-ui">Download on the</text>
+  <text x="50" y="34" fill="#fff" font-size="14" font-family="system-ui" font-weight="600">App Store</text>
+  <g transform="translate(12, 10)">
+    <path d="M15.5 3C15.5 3 14.5 5 12 5C9.5 5 8 3 8 3C8 3 6 6 6 10C6 14 9 18 12 18C15 18 18 14 18 10C18 6 15.5 3 15.5 3Z" fill="#fff"/>
+    <path d="M12 0C12 0 13 2 13 3C13 4 12 5 12 5C12 5 11 4 11 3C11 2 12 0 12 0Z" fill="#fff"/>
+  </g>
+</svg>
