@@ -29,7 +29,7 @@ export function CTASection() {
             <Link href="/channels">Explore Channels</Link>
           </Button>
         </div>
-        <p className="text-sm text-background/50 mt-6">No credit card required. Cancel anytime.</p>
+        <p className="text-sm text-background/50 mt-6">No credit card required. Cancel anytime. Call <a href="tel:+18444498445" className="underline hover:text-background/70 transition-colors">(844) 449-8445</a></p>
       </div>
     </section>
   )

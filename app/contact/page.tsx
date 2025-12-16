@@ -25,7 +25,7 @@ const contactMethods = [
     icon: Phone,
     name: "Phone",
     description: "Call our support line",
-    action: "1-800-seriusxfm",
+    action: "(844) 449-8445",
     available: "Mon-Fri, 9am-6pm EST",
   },
 ]
@@ -89,7 +89,13 @@ export default function ContactPage() {
                 </div>
                 <h3 className="text-xl font-semibold text-foreground mb-2 group-hover:text-primary transition-colors duration-300">{method.name}</h3>
                 <p className="text-muted-foreground text-sm mb-4">{method.description}</p>
-                <p className="font-medium text-foreground mb-2">{method.action}</p>
+                {method.name === "Phone" ? (
+                  <a href="tel:+18444498445" className="font-medium text-foreground mb-2 block hover:text-primary transition-colors">{method.action}</a>
+                ) : method.name === "Email" ? (
+                  <a href={`mailto:${method.action}`} className="font-medium text-foreground mb-2 block hover:text-primary transition-colors">{method.action}</a>
+                ) : (
+                  <p className="font-medium text-foreground mb-2">{method.action}</p>
+                )}
                 <p className="text-xs text-muted-foreground">{method.available}</p>
               </div>
             ))}

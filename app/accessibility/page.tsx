@@ -65,7 +65,7 @@ export default function AccessibilityPage() {
                 </p>
                 <ul className="list-disc list-inside space-y-2 text-base md:text-lg ml-4">
                   <li>Email: accessibility@seriusxfm.com</li>
-                  <li>Phone: 1-800-SERIUSXFM (Option 3)</li>
+                  <li>Phone: (844) 449-8445 (Option 3)</li>
                   <li>Contact form on our website</li>
                 </ul>
                 <p className="mt-4 text-base md:text-lg">We try to respond to accessibility feedback within 2 business days.</p>

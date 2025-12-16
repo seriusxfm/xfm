@@ -158,6 +158,7 @@ export default function FAQPage() {
           <Button asChild className="rounded-full px-8">
             <Link href="/contact">Contact Support</Link>
           </Button>
+          <p className="text-sm text-muted-foreground mt-6">Or call us at <a href="tel:+18444498445" className="text-foreground hover:text-primary transition-colors font-medium">(844) 449-8445</a></p>
         </div>
       </section>
 

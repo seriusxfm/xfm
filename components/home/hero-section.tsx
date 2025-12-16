@@ -141,7 +141,7 @@ export function HeroSection() {
               <div className="relative w-[280px] sm:w-[340px] md:w-[400px] bg-gradient-to-br from-card/90 to-card/70 backdrop-blur-xl rounded-[24px] sm:rounded-[32px] p-4 sm:p-6 shadow-2xl border border-white/10 transform hover:scale-[1.02] transition-transform duration-500">
                 {/* Album art */}
                 <div className="relative aspect-square rounded-2xl overflow-hidden mb-6 shadow-xl">
-                  <Image src="https://images.unsplash.com/photo-1611339555312-e607c8352fd7?w=600&q=80" alt="Now Playing" fill className="object-cover" />
+                  <Image src="https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80" alt="Now Playing" fill className="object-cover" />
                   {/* Animated vinyl overlay */}
                   <div
                     className={`absolute inset-0 flex items-center justify-center bg-black/20 ${isPlaying ? "opacity-0" : "opacity-100"} transition-opacity`}

@@ -132,6 +132,7 @@ export default function HelpPage() {
               <Link href="/help/faq">View FAQ</Link>
             </Button>
           </div>
+          <p className="text-sm text-muted-foreground mt-6">Or call us at <a href="tel:+18444498445" className="text-foreground hover:text-primary transition-colors font-medium">(844) 449-8445</a></p>
         </div>
       </section>
 
