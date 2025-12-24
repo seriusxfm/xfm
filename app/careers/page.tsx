@@ -84,7 +84,7 @@ export default function CareersPage() {
       {/* Benefits */}
       <section className="py-16 bg-card">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <h2 className="text-2xl font-bold text-foreground mb-8 text-center">Why work at seriusxfm</h2>
+          <h2 className="text-2xl font-bold text-foreground mb-8 text-center">Why work at Audio verse</h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {benefits.map((benefit) => (
               <div key={benefit} className="bg-background rounded-xl p-4 text-center shadow-sm">
@@ -164,7 +164,7 @@ export default function CareersPage() {
             size="lg"
             className="rounded-full px-8 bg-primary text-primary-foreground hover:bg-primary/90"
           >
-            <a href="mailto:careers@seriusxfm.com">Send Your Resume</a>
+            <a href="mailto:careers@audiovers.com">Send Your Resume</a>
           </Button>
         </div>
       </section>

@@ -8,7 +8,7 @@ import { Play, Users, Volume2 } from "lucide-react"
 
 const liveStations = [
   {
-    name: "seriusxfm Live",
+    name: "Audio verse Live",
     host: "DJ Marcus Cole",
     show: "Morning Grooves",
     listeners: "124K",

@@ -89,7 +89,7 @@ export default function DevicesPage() {
           <div className="max-w-3xl">
             <h1 className="text-5xl md:text-6xl font-bold text-foreground mb-6 text-balance">Listen on every device</h1>
             <p className="text-xl text-muted-foreground mb-8">
-              seriusxfm works seamlessly across all your devices. Start on one, continue on another. Your music follows
+              Audio verse works seamlessly across all your devices. Start on one, continue on another. Your music follows
               you everywhere.
             </p>
             <Button asChild size="lg" className="rounded-full px-8">
@@ -141,7 +141,7 @@ export default function DevicesPage() {
               </span>
               <h2 className="text-4xl md:text-5xl font-bold mb-6 text-balance">Built into your car</h2>
               <p className="text-background/70 mb-8 leading-relaxed">
-                seriusxfm comes pre-installed in millions of vehicles worldwide. Connect via CarPlay, Android Auto, or
+                Audio verse comes pre-installed in millions of vehicles worldwide. Connect via CarPlay, Android Auto, or
                 your car's built-in entertainment system for the ultimate driving soundtrack.
               </p>
 
@@ -164,7 +164,7 @@ export default function DevicesPage() {
             <div className="relative">
               <img
                 src="/luxury-car-interior-dashboard-infotainment-screen-music-app-night.jpg"
-                alt="Car dashboard with seriusxfm"
+                alt="Car dashboard with Audio verse"
                 className="rounded-3xl shadow-2xl"
               />
             </div>
@@ -177,7 +177,7 @@ export default function DevicesPage() {
         <div className="mx-auto max-w-7xl px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">Seamless device switching</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto mb-12">
-            Start listening on your phone, continue in your car, then finish at home. seriusxfm remembers exactly where
+            Start listening on your phone, continue in your car, then finish at home. Audio verse remembers exactly where
             you left off.
           </p>
 

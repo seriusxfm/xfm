@@ -75,7 +75,7 @@ export default function CookiesPage() {
               <section>
                 <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">Contact Us</h2>
                 <p className="text-base md:text-lg">
-                  If you have questions about our use of cookies, please contact us at privacy@seriusxfm.com or visit
+                  If you have questions about our use of cookies, please contact us at privacy@audiovers.com or visit
                   our Contact page.
                 </p>
               </section>

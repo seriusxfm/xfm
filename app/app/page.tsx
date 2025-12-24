@@ -56,7 +56,7 @@ export default function AppPage() {
               <span className="text-primary text-sm font-semibold tracking-wider uppercase mb-4 block">Mobile App</span>
               <h1 className="text-5xl md:text-6xl font-bold text-foreground mb-6 text-balance">Music in your pocket</h1>
               <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-                The seriusxfm app puts millions of songs, podcasts, and live shows at your fingertips. Beautifully
+                The Audio verse app puts millions of songs, podcasts, and live shows at your fingertips. Beautifully
                 designed, incredibly intuitive.
               </p>
 
@@ -88,7 +88,7 @@ export default function AppPage() {
               <div className="relative">
                 <img
                   src="/iphone-mockup-music-streaming-app-home-screen-beau.jpg"
-                  alt="seriusxfm app"
+                  alt="Audio verse app"
                   className="relative z-20 drop-shadow-2xl animate-float"
                 />
                 <img
@@ -109,7 +109,7 @@ export default function AppPage() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">Everything you need</h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              Packed with features that make listening a joy. Here's what makes seriusxfm special.
+              Packed with features that make listening a joy. Here's what makes Audio verse special.
             </p>
           </div>
 
@@ -132,7 +132,7 @@ export default function AppPage() {
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">See it in action</h2>
-            <p className="text-muted-foreground">A glimpse of the seriusxfm experience</p>
+            <p className="text-muted-foreground">A glimpse of the Audio verse experience</p>
           </div>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">

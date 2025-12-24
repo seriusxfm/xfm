@@ -156,7 +156,7 @@ export function HeroSection() {
                       {[48, 67, 92, 25, 92, 21, 58, 31, 85, 88, 7, 48, 78, 55, 19, 100, 82, 60, 85, 22].map((height, i) => (
                         <div
                           key={i}
-                          className="w-1 bg-white/80 rounded-full animate-seriusxfm"
+                          className="w-1 bg-white/80 rounded-full animate-audiovers"
                           style={{
                             animationDelay: `${i * 0.1}s`,
                             height: `${height}%`,

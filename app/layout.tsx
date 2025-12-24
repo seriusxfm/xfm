@@ -20,7 +20,7 @@ const righteous = Righteous({
 })
 
 export const metadata: Metadata = {
-  title: "seriusxfm | Premium Audio Streaming",
+  title: "Audio verse | Premium Audio Streaming",
   description:
     "Experience music, podcasts, and live content like never before. Premium audio streaming with crystal-clear sound.",
   generator: "v0.app",
@@ -49,7 +49,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={`${poppins.variable} ${righteous.variable} font-sans antialiased`}>
+      <body className={`${poppins.variable} ${righteous.variable} font-sans antialiased`} suppressHydrationWarning>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           {children}
         </ThemeProvider>

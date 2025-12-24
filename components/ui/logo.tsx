@@ -31,7 +31,7 @@ export function Logo({
             )}
             style={{ color: textColor }}
           >
-            serius
+            Audio
           </span>
           <span 
             className={cn(
@@ -40,7 +40,7 @@ export function Logo({
             )}
             style={{ color: textColor }}
           >
-            xfm
+            verse
           </span>
         </div>
       )}

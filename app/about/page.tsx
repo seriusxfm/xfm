@@ -70,7 +70,7 @@ export default function AboutPage() {
               Redefining how the world listens
             </h1>
             <p className="text-xl text-muted-foreground leading-relaxed">
-              seriusxfm was founded with a simple mission: to create the best audio streaming experience on the planet.
+              Audio verse was founded with a simple mission: to create the best audio streaming experience on the planet.
               Today, we're proud to serve millions of listeners who share our passion for great sound.
             </p>
           </div>
@@ -111,7 +111,7 @@ export default function AboutPage() {
                   audio platforms, serving over 50 million listeners across 190 countries.
                 </p>
                 <p>
-                  Today, seriusxfm continues to innovate with features like Hi-Fi lossless audio, AI-powered
+                  Today, Audio verse continues to innovate with features like Hi-Fi lossless audio, AI-powered
                   personalization, and exclusive original content—all while staying true to our founding belief that
                   everyone deserves access to exceptional sound.
                 </p>
@@ -121,7 +121,7 @@ export default function AboutPage() {
             <div className="relative">
               <img
                 src="/modern-tech-office-team-collaboration-creative-spa.jpg"
-                alt="seriusxfm team"
+                alt="Audio verse team"
                 className="rounded-3xl shadow-xl"
               />
             </div>
@@ -155,7 +155,7 @@ export default function AboutPage() {
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">Leadership Team</h2>
-            <p className="text-muted-foreground">The people driving seriusxfm's mission forward</p>
+            <p className="text-muted-foreground">The people driving Audio verse's mission forward</p>
           </div>
 
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">

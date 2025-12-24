@@ -18,7 +18,7 @@ export default function AccessibilityPage() {
               <section className="border-b border-border pb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">Our Commitment</h2>
                 <p className="text-base md:text-lg">
-                  seriusxfm is committed to ensuring digital accessibility for people with disabilities. We are
+                  Audio verse is committed to ensuring digital accessibility for people with disabilities. We are
                   continually improving the user experience for everyone and applying the relevant accessibility
                   standards.
                 </p>
@@ -34,7 +34,7 @@ export default function AccessibilityPage() {
 
               <section className="border-b border-border pb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">Accessibility Features</h2>
-                <p className="text-base md:text-lg">seriusxfm includes the following accessibility features:</p>
+                <p className="text-base md:text-lg">Audio verse includes the following accessibility features:</p>
                 <ul className="list-disc pl-6 mt-4 space-y-3 text-base md:text-lg">
                   <li>Full keyboard navigation support</li>
                   <li>Screen reader compatibility</li>
@@ -48,7 +48,7 @@ export default function AccessibilityPage() {
 
               <section className="border-b border-border pb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">Assistive Technologies</h2>
-                <p className="text-base md:text-lg">seriusxfm is designed to be compatible with assistive technologies including:</p>
+                <p className="text-base md:text-lg">Audio verse is designed to be compatible with assistive technologies including:</p>
                 <ul className="list-disc pl-6 mt-4 space-y-3 text-base md:text-lg">
                   <li>Screen readers (VoiceOver, NVDA, JAWS)</li>
                   <li>Voice recognition software</li>
@@ -60,11 +60,11 @@ export default function AccessibilityPage() {
               <section className="border-b border-border pb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">Feedback</h2>
                 <p className="text-base md:text-lg">
-                  We welcome your feedback on the accessibility of seriusxfm. Please let us know if you encounter
+                  We welcome your feedback on the accessibility of Audio verse. Please let us know if you encounter
                   accessibility barriers:
                 </p>
                 <ul className="list-disc list-inside space-y-2 text-base md:text-lg ml-4">
-                  <li>Email: accessibility@seriusxfm.com</li>
+                  <li>Email: accessibility@audiovers.com</li>
                   <li>Phone: (844) 449-8445 (Option 3)</li>
                   <li>Contact form on our website</li>
                 </ul>

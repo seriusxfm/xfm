@@ -18,7 +18,7 @@ export default function TermsPage() {
               <section className="border-b border-border pb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">1. Agreement to Terms</h2>
                 <p className="text-base md:text-lg">
-                  By accessing or using seriusxfm, you agree to be bound by these Terms of Service. If you disagree with
+                  By accessing or using Audio verse, you agree to be bound by these Terms of Service. If you disagree with
                   any part of the terms, you may not access the service.
                 </p>
               </section>
@@ -26,7 +26,7 @@ export default function TermsPage() {
               <section className="border-b border-border pb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">2. Description of Service</h2>
                 <p className="text-base md:text-lg">
-                  seriusxfm is an audio streaming service that provides access to music, podcasts, and other audio
+                  Audio verse is an audio streaming service that provides access to music, podcasts, and other audio
                   content. We offer various subscription plans with different features and pricing.
                 </p>
               </section>
@@ -64,7 +64,7 @@ export default function TermsPage() {
               <section className="border-b border-border pb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">6. Intellectual Property</h2>
                 <p className="text-base md:text-lg">
-                  All content on seriusxfm is protected by copyright and other intellectual property laws. You may not
+                  All content on Audio verse is protected by copyright and other intellectual property laws. You may not
                   reproduce, distribute, or create derivative works without explicit permission.
                 </p>
               </section>
@@ -80,7 +80,7 @@ export default function TermsPage() {
               <section className="border-b border-border pb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">8. Limitation of Liability</h2>
                 <p className="text-base md:text-lg">
-                  seriusxfm shall not be liable for any indirect, incidental, special, consequential, or punitive
+                  Audio verse shall not be liable for any indirect, incidental, special, consequential, or punitive
                   damages resulting from your use of the service.
                 </p>
               </section>
@@ -96,7 +96,7 @@ export default function TermsPage() {
               <section>
                 <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">10. Contact</h2>
                 <p className="text-base md:text-lg">
-                  For questions about these Terms, please contact us at legal@seriusxfm.com or through our Contact page.
+                  For questions about these Terms, please contact us at legal@audiovers.com or through our Contact page.
                 </p>
               </section>
             </div>

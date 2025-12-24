@@ -8,7 +8,7 @@ const helpCategories = [
   {
     icon: Headphones,
     name: "Getting Started",
-    description: "Learn the basics of using seriusxfm",
+    description: "Learn the basics of using Audio verse",
     articles: 12,
     href: "/help/getting-started",
   },

@@ -95,7 +95,7 @@ const channels = [
 ]
 
 const featuredChannel = {
-  name: "seriusxfm Exclusives",
+  name: "Audio verse Exclusives",
   description:
     "Hand-picked tracks by our editorial team. Updated every Friday with the best new music across all genres.",
   image: "/channels/indie-discovery.jpg",

@@ -8,7 +8,7 @@ const connectionMethods = [
   {
     icon: Smartphone,
     name: "Apple CarPlay",
-    description: "Connect your iPhone and control seriusxfm right from your car's display",
+    description: "Connect your iPhone and control Audio verse right from your car's display",
   },
   {
     icon: Smartphone,
@@ -62,7 +62,7 @@ export default function CarsPage() {
                 Premium audio for the road
               </h1>
               <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-                Transform every drive into a premium listening experience. seriusxfm integrates seamlessly with your
+                Transform every drive into a premium listening experience. Audio verse integrates seamlessly with your
                 vehicle for the ultimate road trip soundtrack.
               </p>
               <Button asChild size="lg" className="rounded-full px-8">
@@ -73,7 +73,7 @@ export default function CarsPage() {
             <div className="relative">
               <img
                 src="/luxury-car-interior-dashboard-infotainment-screen-music-pla.jpg"
-                alt="Car dashboard with seriusxfm"
+                alt="Car dashboard with Audio verse"
                 className="rounded-3xl shadow-2xl"
               />
             </div>
@@ -110,7 +110,7 @@ export default function CarsPage() {
             <div>
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Designed for driving</h2>
               <p className="text-background/70 mb-8 leading-relaxed">
-                seriusxfm's car experience is built from the ground up for safe, enjoyable driving. Large touch targets,
+                Audio verse's car experience is built from the ground up for safe, enjoyable driving. Large touch targets,
                 voice control, and smart features let you focus on the road.
               </p>
 

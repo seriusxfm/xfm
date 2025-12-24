@@ -125,7 +125,7 @@ export function Footer() {
               </div>
             </div>
             <p className="text-sm text-muted-foreground">
-              © {new Date().getFullYear()} seriusxfm. All rights reserved.
+              © {new Date().getFullYear()} Audio verse. All rights reserved.
             </p>
           </div>
         </div>

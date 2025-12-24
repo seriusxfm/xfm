@@ -11,7 +11,7 @@ const faqs = [
   {
     question: "What audio quality can I expect?",
     answer:
-      "seriusxfm offers multiple audio quality options. Our Premium and Family plans include Hi-Fi lossless audio up to 24-bit/192kHz, delivering studio-quality sound that audiophiles love.",
+      "Audio verse offers multiple audio quality options. Our Premium and Family plans include Hi-Fi lossless audio up to 24-bit/192kHz, delivering studio-quality sound that audiophiles love.",
   },
   {
     question: "Can I listen offline?",
@@ -21,7 +21,7 @@ const faqs = [
   {
     question: "What devices are supported?",
     answer:
-      "seriusxfm works on iOS, Android, web browsers, smart TVs, smart speakers (Alexa, Google Home), Apple Watch, CarPlay, Android Auto, and more. Your music follows you everywhere.",
+      "Audio verse works on iOS, Android, web browsers, smart TVs, smart speakers (Alexa, Google Home), Apple Watch, CarPlay, Android Auto, and more. Your music follows you everywhere.",
   },
   {
     question: "How do I cancel my subscription?",
@@ -43,7 +43,7 @@ export function FAQSection() {
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4 text-balance">
             Frequently asked questions
           </h2>
-          <p className="text-lg text-muted-foreground">Everything you need to know about seriusxfm</p>
+          <p className="text-lg text-muted-foreground">Everything you need to know about Audio verse</p>
         </div>
 
         <Accordion type="single" collapsible className="w-full">

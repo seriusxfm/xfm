@@ -8,7 +8,7 @@ export default function LoginPage() {
       <div className="flex-1 flex items-center justify-center p-8">
         <div className="w-full max-w-md">
           <Link href="/" className="text-2xl font-bold text-foreground mb-8 block">
-            seriusxfm
+            Audio verse
           </Link>
 
           <h1 className="text-3xl font-bold text-foreground mb-2">Welcome back</h1>
@@ -118,7 +118,7 @@ export default function LoginPage() {
         <div className="absolute inset-0 bg-gradient-to-t from-foreground via-foreground/50 to-transparent" />
         <div className="absolute bottom-16 left-16 right-16 text-background">
           <p className="text-3xl font-bold mb-4 text-balance">
-            "seriusxfm has completely changed how I discover new music."
+            "Audio verse has completely changed how I discover new music."
           </p>
           <p className="text-background/80">— Maria S., Premium Member</p>
         </div>

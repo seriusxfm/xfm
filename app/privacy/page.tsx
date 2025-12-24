@@ -18,7 +18,7 @@ export default function PrivacyPage() {
               <section className="border-b border-border pb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">1. Introduction</h2>
                 <p className="text-base md:text-lg">
-                  At seriusxfm, we are committed to protecting your privacy and ensuring the security of your personal
+                  At Audio verse, we are committed to protecting your privacy and ensuring the security of your personal
                   information. This Privacy Policy explains how we collect, use, disclose, and safeguard your
                   information when you use our service.
                 </p>
@@ -84,7 +84,7 @@ export default function PrivacyPage() {
               <section>
                 <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">7. Contact Us</h2>
                 <p className="text-base md:text-lg">
-                  If you have any questions about this Privacy Policy, please contact us at privacy@seriusxfm.com or
+                  If you have any questions about this Privacy Policy, please contact us at privacy@audiovers.com or
                   through our Contact page.
                 </p>
               </section>

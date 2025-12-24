@@ -18,7 +18,7 @@ const contactMethods = [
     icon: Mail,
     name: "Email",
     description: "Send us a message",
-    action: "support@seriusxfm.com",
+    action: "support@audiovers.com",
     available: "Response within 24 hours",
   },
   {

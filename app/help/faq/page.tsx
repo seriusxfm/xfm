@@ -11,7 +11,7 @@ const faqCategories = [
     name: "Getting Started",
     faqs: [
       {
-        question: "How do I create a seriusxfm account?",
+        question: "How do I create a Audio verse account?",
         answer:
           "Creating an account is easy! Click the 'Start Free Trial' button, enter your email and create a password. You'll have instant access to all features during your 30-day free trial.",
       },
@@ -23,7 +23,7 @@ const faqCategories = [
       {
         question: "What devices are supported?",
         answer:
-          "seriusxfm works on computers, tablets, smart TVs, smart speakers, cars with CarPlay/Android Auto, and smartwatches. Stream directly from your web browser or through compatible devices.",
+          "Audio verse works on computers, tablets, smart TVs, smart speakers, cars with CarPlay/Android Auto, and smartwatches. Stream directly from your web browser or through compatible devices.",
       },
     ],
   },
@@ -56,7 +56,7 @@ const faqCategories = [
     name: "Audio & Quality",
     faqs: [
       {
-        question: "What audio quality does seriusxfm offer?",
+        question: "What audio quality does Audio verse offer?",
         answer:
           "Essential plan offers standard 256kbps quality. Premium and Family plans include Hi-Fi lossless audio up to 24-bit/192kHz for studio-quality sound.",
       },
@@ -76,9 +76,9 @@ const faqCategories = [
     name: "Devices & Connectivity",
     faqs: [
       {
-        question: "What devices can I use seriusxfm on?",
+        question: "What devices can I use Audio verse on?",
         answer:
-          "seriusxfm works on iOS, Android, web browsers, smart TVs, smart speakers (Alexa, Google Home), Apple Watch, CarPlay, Android Auto, PlayStation, Xbox, and more.",
+          "Audio verse works on iOS, Android, web browsers, smart TVs, smart speakers (Alexa, Google Home), Apple Watch, CarPlay, Android Auto, PlayStation, Xbox, and more.",
       },
       {
         question: "How many devices can I use at once?",
@@ -123,7 +123,7 @@ export default function FAQPage() {
       <section className="pt-32 pb-16 bg-background">
         <div className="mx-auto max-w-4xl px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">Frequently Asked Questions</h1>
-          <p className="text-xl text-muted-foreground">Find answers to common questions about seriusxfm</p>
+          <p className="text-xl text-muted-foreground">Find answers to common questions about Audio verse</p>
         </div>
       </section>
 

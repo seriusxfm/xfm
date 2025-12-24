@@ -17,7 +17,7 @@ export default function SignupPage() {
         <div className="absolute inset-0 bg-gradient-to-r from-foreground via-foreground/50 to-transparent" />
         <div className="absolute top-16 left-16 right-16 text-background">
           <Link href="/" className="text-2xl font-bold mb-16 block">
-            seriusxfm
+            Audio verse
           </Link>
           <h2 className="text-4xl font-bold mb-6 text-balance">Start your free trial today</h2>
           <ul className="space-y-3">
@@ -35,7 +35,7 @@ export default function SignupPage() {
       <div className="flex-1 flex items-center justify-center p-8">
         <div className="w-full max-w-md">
           <Link href="/" className="text-2xl font-bold text-foreground mb-8 block lg:hidden">
-            seriusxfm
+            Audio verse
           </Link>
 
           <h1 className="text-3xl font-bold text-foreground mb-2">Create your account</h1>

@@ -57,7 +57,7 @@ export function AppSection() {
                 <div className="relative">
                   <Image
                     src="/device-iphone-music-app-dark-ui-playing.jpg"
-                    alt="iPhone with seriusxfm"
+                    alt="iPhone with Audio verse"
                     width={260}
                     height={520}
                     className="rounded-[36px] shadow-2xl"
